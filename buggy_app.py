@@ -17,4 +17,4 @@ def process_items(items):
                 result.append(items[i])
     return result
 
-SECRET_KEY = "hardcoded-secret-abc123"  # BUG: hardcoded secret
+SECRET_KEY = "hardcoded-secretAc123"  # BUG: hardcoded secret
